@@ -34,4 +34,4 @@ layout: default
   </li>
 </ul>
 
-<p><a href="/diario/about">Sobre mim →</a></p>
+<p><a href="{{ '/about' | relative_url }}">Sobre mim →</a></p>
