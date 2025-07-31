@@ -20,12 +20,13 @@ layout: default
 <h2>Últimos Posts</h2>
 <ul>
   {% for post in site.posts limit:5 %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <br><small>{{ post.date | date: "%d/%m/%Y" }}</small>
-  </li>
-{% endfor %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <br><small>{{ post.date | date: "%d/%m/%Y" }}</small>
+    </li>
+  {% endfor %}
 </ul>
+
 <ul>
   <li>
     <a href="https://github.com/fabio-ti/automacao-para-o-bem" target="_blank">Automação para o Bem</a><br>
