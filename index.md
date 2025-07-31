@@ -26,5 +26,11 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+<ul>
+  <li>
+    <a href="https://github.com/fabio-ti/automacao-para-o-bem" target="_blank">Automação para o Bem</a><br>
+    <small>Scripts em Python para ajudar pessoas comuns a ganharem tempo.</small>
+  </li>
+</ul>
 
 <p><a href="/diario/about">Sobre mim →</a></p>
