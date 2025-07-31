@@ -5,28 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    
+    <!-- CSS com baseurl aplicado -->
+    <link rel="stylesheet" href="{{ '/diario/assets/css/style.css' | relative_url }}">
+    
+    <!-- Fonte -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-    <link rel="icon" type="image/x-icon" href="https://github.com/favicon.ico">
+    
+    <!-- Ícone -->
+    <link rel="icon" type="image/x-icon" href="{{ '/diario/favicon.ico' | relative_url }}">
   </head>
   <body>
-    <header>
+    <header class="site-header">
       <div class="container">
-        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <h1><a href="{{ '/diario' | relative_url }}">{{ site.title }}</a></h1>
         <p>{{ site.description }}</p>
       </div>
     </header>
 
-    <main class="container">
-      {{ content }}
+    <main class="page-content">
+      <div class="container">
+        {{ content }}
+      </div>
     </main>
 
-    <footer class="container">
-      <hr>
-      <p>
-        &copy; {{ 'now' | date: "%Y" }} Fábio de Lima<br>
-        <small>Feito com propósito. Para servir.</small>
-      </p>
+    <footer class="site-footer">
+      <div class="container">
+        <hr>
+        <p>
+          &copy; {{ 'now' | date: "%Y" }} Fábio de Lima<br>
+          <small>Diário de um Engenheiro Cristão • Feito com propósito, para servir.</small>
+        </p>
+      </div>
     </footer>
   </body>
 </html>
