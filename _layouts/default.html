@@ -5,14 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{ '/diario/assets/css/style.css' | relative_url }}">
+    
+    <!-- CSS (sem /diario) -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+    
+    <!-- Fonte -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-    <link rel="icon" type="image/x-icon" href="{{ '/diario/favicon.ico' | relative_url }}">
+    
+    <!-- Ícone -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
   </head>
   <body>
     <header class="site-header">
       <div class="container">
-        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <h1><a href="/">{{ site.title }}</a></h1>
         <p>{{ site.description }}</p>
       </div>
     </header>
