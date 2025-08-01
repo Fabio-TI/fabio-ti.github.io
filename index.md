@@ -3,7 +3,6 @@ layout: default
 ---
 
 <h1 class="page-heading">Diário de um Engenheiro Cristão</h1>
-
 <p><strong>Um espaço onde fé, família e código se encontram.</strong></p>
 
 <p>Meu nome é Fábio de Lima. Sou engenheiro de software, marido da Marcela, pai da Manuela e Testemunha de Jeová desde 1989.</p>
@@ -16,6 +15,7 @@ layout: default
 </ul>
 
 <hr>
+
 <h2>Perfil Profissional</h2>
 <p>
   <a href="https://linkedin.com/in/fabio-delima">LinkedIn</a> | 
@@ -43,4 +43,4 @@ layout: default
   </li>
 </ul>
 
-<p><a href="{{ '/about' | relative_url }}">Sobre mim →</a></p>
+<p><a href="/about">Sobre mim →</a></p>
