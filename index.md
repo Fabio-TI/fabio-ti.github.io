@@ -35,7 +35,6 @@ layout: default
   </li>
   {% endfor %}
 </ul>
-
 <ul>
   <li>
     <a href="https://github.com/fabio-ti/automacao-para-o-bem" target="_blank">Automação para o Bem</a><br>
