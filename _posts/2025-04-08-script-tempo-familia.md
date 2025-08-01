@@ -24,6 +24,13 @@ Porque tecnologia, quando usada com sabedoria, não rouba tempo.
 
 Devolve.
 
+Princípio que lembrei? Lembro de Efésios 5:15 e 16:
+
+> *"Assim, estejam bem atentos para não andarem como tolos, mas como sábios, usando o seu tempo do melhor modo possível, porque os dias são maus."*
+
+Não é uma obrigação. É uma escolha!  
+Diz: **usando o seu tempo do melhor modo possível**.
+
 E cada minuto ganho com automação é um minuto que posso estar com ela, com minha esposa Marcela, ou em serviço.
 
 Não se trata de ser preguiçoso.
