@@ -22,7 +22,7 @@ layout: default
   <a href="https://github.com/fabio-ti">GitHub</a>
 </p>
 <ul>
-  <li>Engenheiro de Software | SAP 4Hana | Python | FullStack</li>
+  <li>Engenheiro de Software | Engenheiro de Dados, Azure, AWS, GCP, Databricks | SAP 4Hana | Python | FullStack</li>
   <li>Metodologias Ágeis, Gestão de Dados, Arquitetura de Sistemas</li>
 </ul>
 
