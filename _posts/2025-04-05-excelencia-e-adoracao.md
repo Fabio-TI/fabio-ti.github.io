@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Excelência Técnica é uma Forma de Adoração"
-date: 2025-07-31 10:00:00 +0300
+date: 2025-07-29 10:00:00 +0300
 permalink: /excelencia-e-adoracao/
 ---
 

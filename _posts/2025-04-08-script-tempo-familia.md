@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O script que me deu 2 horas com minha filha"
-date: 2025-07-29 07:00:00 +0300
+date: 2025-07-31 07:00:00 +0300
 permalink: /script-tempo-familia/
 ---
 Na semana passada, minha filha Manuela me perguntou:
