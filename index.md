@@ -16,6 +16,15 @@ layout: default
 </ul>
 
 <hr>
+<h2>Perfil Profissional</h2>
+<p>
+  <a href="https://linkedin.com/in/fabio-delima">LinkedIn</a> | 
+  <a href="https://github.com/fabio-ti">GitHub</a>
+</p>
+<ul>
+  <li>Engenheiro de Software | SAP 4Hana | Python | FullStack</li>
+  <li>Metodologias Ágeis, Gestão de Dados, Arquitetura de Sistemas</li>
+</ul>
 
 <h2>Últimos Posts</h2>
 <ul>
