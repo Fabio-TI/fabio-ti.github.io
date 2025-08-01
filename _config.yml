@@ -3,7 +3,7 @@ title: Diário de um Engenheiro Cristão
 email: fabio@example.com
 description: >-
   Reflexões de um engenheiro de software que acredita que excelência técnica é uma forma de adoração.
-baseurl: "/diario"
+baseurl: ""
 url: "https://fabio-ti.github.io"
 
 # Jekyll
