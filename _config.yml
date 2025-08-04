@@ -6,10 +6,10 @@ url: "https://fabio-ti.github.io"
 baseurl: ""
 
 # Remova ou comente estas linhas
-# theme: minima
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
+ theme: minima
+ plugins:
+   - jekyll-feed
+   - jekyll-sitemap
 
 # Adicione isto
 markdown: kramdown
