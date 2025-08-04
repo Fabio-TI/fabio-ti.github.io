@@ -42,4 +42,7 @@ layout: default
   </li>
 </ul>
 
-<p><a href="/about">Sobre mim →</a></p>
+<p>
+  <a href="/diario/about">Sobre mim →</a> • 
+  <a href="/diario/feedback">Deixe seu feedback →</a>
+</p>
