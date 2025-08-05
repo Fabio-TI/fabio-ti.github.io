@@ -5,13 +5,15 @@ description: "Reflexões de um engenheiro de software que acredita que excelênc
 url: "https://fabio-ti.github.io"
 baseurl: ""
 
-# Remova ou comente estas linhas
- theme: minima
- plugins:
-   - jekyll-feed
-   - jekyll-sitemap
+# Ative o tema minima
+theme: minima
 
-# Adicione isto
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Configuração
 markdown: kramdown
 permalink: pretty
 
