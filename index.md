@@ -43,6 +43,6 @@ layout: default
 </ul>
 
 <p>
-  • <a href="/diario/about">Sobre mim →</a> 
-  • <a href="/diario/feedback">Deixe seu feedback →</a>
+  • <a href="/about">Sobre mim →</a><br>  
+  • <a href="/feedback">Deixe uma mensagem →</a>
 </p>

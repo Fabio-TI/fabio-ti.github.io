@@ -13,7 +13,7 @@ permalink: /feedback/
 <hr>
 
 <iframe
-  src="https://tally.so/r/waZG0P"
+  src="https://tally.so/r/3jVPd6"
   data-tally-src="https://tally.so/r/3jVPd6"
   width="100%"
   height="500"
