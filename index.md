@@ -28,7 +28,7 @@ layout: default
 
 <h2>Últimos Posts</h2>
 <ul>
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:15 %}
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <br><small>{{ post.date | date: "%d/%m/%Y" }}</small>
