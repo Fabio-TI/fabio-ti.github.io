@@ -90,7 +90,7 @@ Assim como a engenharia deveria ser.
 A 80ª Sessão Ordinária de Exercício Profissional é aberta a engenheiros, tecnólogos e profissionais da área de tecnologia que desejam refletir sobre o papel ético e social da engenharia no Brasil.
 
 Se você quer fazer parte desse momento histórico, **inscreva-se agora**:  
-👉 [**Inscrição na SOEA 80º – CREA-ES**](https://www.crea-es.org.br/soea80)
+👉 [**Inscrição na SOEA 80º – CREA-ES**](https://eventos.confea.org.br/Account/Login)
 
 Vamos fortalecer juntos a identidade da Engenharia de Software como engenharia — com responsabilidade, propósito e visibilidade.
 
